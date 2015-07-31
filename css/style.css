@@ -51,11 +51,9 @@ input[type="text"] {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
-  height: 18px;
   padding: 10px;
   border: 1px solid #ddd;
   background: #fff;
-  border-radius: 6px;
   font-family: Lato, sans-serif;
   color: #888;
 }
@@ -90,7 +88,7 @@ li > input[type="checkbox"] {
 li > label {
   font-size: 18px;
   line-height: 40px;
-  width: 237px;
+  width: 248px;
   padding: 0 0 0 11px;
 }
 li >  input[type="text"] {
