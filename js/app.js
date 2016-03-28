@@ -80,6 +80,7 @@ var editTask = function() {
     //switch to editmode
     //input value becomes the label's text
     editInput.value = label.innerText;
+
   }
   //toggle editmode on the list item
   listItem.classList.toggle("editMode");
